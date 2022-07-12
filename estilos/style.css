@@ -35,7 +35,8 @@ section#telefone {
 }
 
 section#redes-sociais {
-    text-align: right;
+    position: fixed;
+    right: 0px;
 
 }
 
